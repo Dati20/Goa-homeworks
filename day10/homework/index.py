@@ -1,2 +1,9 @@
-lemur_food = input("which food do u like?:  ")
-print(lemur_food)
+name_surname=input("enter your name and surname:    ")
+print(name_surname)
+
+
+
+
+
+
+
